@@ -45,7 +45,7 @@ public class OffersDao {
 		});
 	}
 
-	public Offers getOfferById(Offers offer)
+	/*public Offers getOfferById(Offers offer)
 	{
 		BeanPropertySqlParameterSource params = new BeanPropertySqlParameterSource(offer);
 		
@@ -65,5 +65,5 @@ public class OffersDao {
 				
 			}
 		});
-	}
+	}*/
 }

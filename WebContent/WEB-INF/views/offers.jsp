@@ -12,7 +12,7 @@
 <center><h3>Welcome to My Offers</h3></center>
 
 <center>
-	<table border = "2px solid black" style="border-collapse:collapse">
+	<table border = "2px solid black" style="border-collapse:collapse" cell-padding = "15px" cell-spacing = "18px">
 		<tr>
 			<th>Id</th>
 			<th>Name</th>

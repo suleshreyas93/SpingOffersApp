@@ -24,7 +24,7 @@ public class OffersController {
 	public String showOffers(Model model)
 	{
 		List<Offers> offer = offersServies.getOffers();
-		model.addAttribute("offers", offer);
+		model.addAttribute("offer", offer);
 		
 		return "offers";
 	}
